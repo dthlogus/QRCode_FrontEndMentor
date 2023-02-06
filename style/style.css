@@ -1,0 +1,13 @@
+body{
+    background-color: #d6e2f0;
+    min-width: 1440px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#card{
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
